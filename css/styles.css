@@ -135,7 +135,7 @@ padding: 10% 10% 5% 10%;
 }
 
 }
-@media (max-width:1028px) {
+@media (min-width:900px) {
 
   #title{
     text-align: center;
