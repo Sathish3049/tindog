@@ -34,7 +34,7 @@ body{
 .download-button{
   margin: 5% 3% 5% 0%
 }
-.iphone-image{
+.iphoneimage{
   width: 60%;
   transform: rotate(25deg);
   position: absolute;
@@ -141,7 +141,7 @@ padding: 10% 10% 5% 10%;
     text-align: center;
   }
 
-  .iphone-image{
+  .iphoneimage{
     position: static;
     transform: rotate(0);
   }
