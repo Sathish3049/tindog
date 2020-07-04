@@ -1,0 +1,148 @@
+#title{
+  background-color: #ff4c68;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+  padding-bottom:7%;
+}
+h1{
+  font-family: "Montserrat";
+  font-size: 3rem;
+  font-weight: bolder;
+  line-height: 1.5
+}
+
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar-brand{
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.topbar{
+  padding: 0 0 4.5rem 0;
+}
+.nav-item{
+  padding: 0 15px;
+  font-family: 'Montserrat', sans-serif;
+}
+.download-button{
+  margin: 5% 3% 5% 0%
+}
+.iphone-image{
+  width: 60%;
+  transform: rotate(25deg);
+  position: absolute;
+  right: 22%;
+}
+#features{
+  padding: 7% 15%;
+  background-color: white;
+  position: relative;
+  z-index: 1;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+h3
+{
+  font-family: "Montserrat";
+  font-size: 1.3rem;
+  font-weight: bolder;
+}
+.features-para{
+  color:  #8f8f8f;
+}
+.icon
+{
+color: #ef8172;
+margin-bottom: 1rem;
+}
+.icon:hover{
+  color: #ff4c68;
+}
+#testimonials{
+  background-color:#ef8172;
+  text-align: center;
+  color: white;
+
+}
+h2{
+    font-family: "Montserrat";
+    font-size: 3rem;
+    font-weight: bolder;
+    line-height: 1.5
+}
+.testimonials-image{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+#testimonials{
+  margin: 10;
+}
+
+#pricing{
+  text-align: center;
+}
+.pricing-box{
+  padding-bottom: 1.5%;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;;
+  padding-bottom: 3%;
+}
+.press-logo{
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+
+#cta{
+  background-color:  #ff4c68;
+  text-align: center;
+padding: 10% 10% 5% 10%;
+}
+
+.footer-para{
+  font-family: "Montserrat";
+  font-size: 2.5rem;
+  font-weight: bolder;
+  line-height: 1.5;
+  color: white;
+}
+
+#footer{
+  background-color: white;
+  text-align: center;
+  padding: 4%;
+}
+.footer-image{
+  margin: 2%;
+}
+
+}
+@media (max-width:1028px) {
+
+  #title{
+    text-align: center;
+  }
+
+  .iphone-image{
+    position: static;
+    transform: rotate(0);
+  }
+}
