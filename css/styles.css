@@ -124,7 +124,10 @@ padding: 10% 10% 5% 10%;
   line-height: 1.5;
   color: white;
 }
-
+.cardtop{
+  padding-bottom: 20px;
+}
+ 
 #footer{
   background-color: white;
   text-align: center;
@@ -139,10 +142,7 @@ padding: 10% 10% 5% 10%;
   #title{
       text-align: center;
     }
-.cardtop{
-  padding-bottom: 20px;
-}
-  
+ 
 .iphoneimage{
     transform: rotate(0);
     position: static;
