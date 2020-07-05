@@ -139,7 +139,10 @@ padding: 10% 10% 5% 10%;
   #title{
       text-align: center;
     }
-
+.cardtop{
+  padding-bottom: 20px;
+}
+  
 .iphoneimage{
     transform: rotate(0);
     position: static;
